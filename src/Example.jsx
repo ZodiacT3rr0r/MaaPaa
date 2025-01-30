@@ -38,13 +38,15 @@ export const Example = () => {
               <p> Another year of love, laughter, and unwavering support has passed, and a new year begins to create even more beautiful moments together.
                 <br />
                 <p>Bas yahi dua hai Rab se</p>
-                Aap dono ka saath kabhi na chute,  
-                Pyaar bhara rishta kabhi na toote,  
-                Sukh-dukh mein yuhi ek duje ka saath nibhayein,  
-                Aur har pal khushiyon se mehke yeh jeevan raahein. 
+                <br/>
+                Aap dono ka saath kabhi na chute,  <br/>
+                Pyaar bhara rishta kabhi na toote,  <br/>
+                Sukh-dukh mein yuhi ek duje ka saath nibhayein,  <br/>
+                Aur har pal khushiyon se mehke yeh jeevan raahein. <br/>
               </p>
             </center>
-            <p class="signed">With love and best wishes,
+            <br />
+            <p class="text-center">With love and best wishes,
               <br /> Dhrushit Jain
             </p>
           </div>
